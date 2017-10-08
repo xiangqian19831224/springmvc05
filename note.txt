@@ -1,0 +1,5 @@
+请求参数
+1、通过设置HttpServletRequest request来获取参数
+2、通过设置同名参数
+     通过@RequestParam限定赋值参数
+3、通过类传参数
